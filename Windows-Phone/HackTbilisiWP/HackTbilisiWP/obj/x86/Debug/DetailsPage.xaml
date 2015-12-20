@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="HackTbilisiWP.DetailsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HackTbilisiWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:RatingControl="using:JISoft.RatingControl" 
+    Background="White">
+
+    <Grid Margin="0,0,0,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <FlipView x:Name="flipView" Margin="0,4,0,5" Height="300" Grid.Row="2">
+        </FlipView>
+        <Border Background="#ff8800">
+            <TextBlock Foreground="White" Padding="15,10,0,10"  Grid.Row ="0" Margin="0" FontSize="25" Text="Name of the item" x:Name="Name" VerticalAlignment="Center"/>
+        </Border>
+        <RatingControl:Rating x:Name="Rating" Grid.Row="1" Padding="0" Background="White" Margin="20,0,0,0" VerticalAlignment="Center" AllowSelectingZero="True" ReadOnly="True" RatingItemCount="5" Value="{Binding Rating}" RenderTransformOrigin="0.5,0.5" BorderBrush="Black">
+            <RatingControl:Rating.RenderTransform>
+                <CompositeTransform ScaleX="0.6" TranslateX="0" TranslateY="0" ScaleY="0.6"/>
+            </RatingControl:Rating.RenderTransform>
+            <RatingControl:Rating.FilledItemStyle>
+                <Style TargetType="RatingControl:RatingItem">
+                    <Setter Property="Background" Value="#ff8800"/>
+                </Style>
+            </RatingControl:Rating.FilledItemStyle>
+            <RatingControl:Rating.UnfilledItemStyle>
+                <Style TargetType="RatingControl:RatingItem">
+                    <Setter Property="Background" Value="Black"/>
+                </Style>
+            </RatingControl:Rating.UnfilledItemStyle>
+        </RatingControl:Rating>
+        
+        <ToggleButton x:ConnectionId='1' x:Name="tglBTN" Grid.Row="1" MinWidth="0"  HorizontalAlignment="Right" Foreground="Black" BorderBrush="Black" Content="+ Cart" Canvas.ZIndex="5"  Margin="0,0,10,0"                     />
+        <TextBlock Grid.Row ="1"   Margin="15" Text="Price" Foreground="Black" x:Name="Price" VerticalAlignment="Center" FontSize="24"/>
+        <ScrollViewer  Grid.Row ="3" HorizontalScrollMode="Disabled" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Visible" VerticalScrollMode="Enabled">
+            <TextBlock Margin="20" TextWrapping="WrapWholeWords"  Text="Description" Foreground="Black" x:Name="Description" VerticalAlignment="Center" FontSize="18"/>
+        </ScrollViewer>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#ff8800" Opacity="0.95" Foreground="White">
+            <AppBarButton x:ConnectionId='2' Icon="Globe" Label="Map"                 />
+            <AppBarButton x:ConnectionId='3' Icon="Contact" Label="Profile"                     />
+            <AppBarButton x:ConnectionId='4' Icon="Shop" Label="Cart"                   />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

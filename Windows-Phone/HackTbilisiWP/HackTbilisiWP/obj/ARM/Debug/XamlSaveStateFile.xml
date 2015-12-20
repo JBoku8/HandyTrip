@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\hacktbilisiwp\obj\arm\debug\intermediatexaml\hacktbilisiwp.exe" HashGuid="232cc8d8-9fc1-36ac-60d2-7d84cbcbaec6" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\acr.barcodes.3.1.0\lib\portable-win+net45+wp8+win8+wpa81\acr.barcodes.dll" HashGuid="aaa2fb69-4681-5e60-6623-92a26a61eef7" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\acr.barcodes.3.1.0\lib\portable-win+net45+wp8+win8+wpa81\acr.barcodes.interface.dll" HashGuid="d6587221-272b-d9d5-3686-525d7199ca47" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\acr.mvvmcross.plugins.barcodescanner.3.1.0\lib\portable-win+net45+wp8+win8+wpa81\acr.mvvmcross.plugins.barcodescanner.dll" HashGuid="20ce23b6-c67c-83b3-207d-0ea2388e133e" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\mvvmcross.hottuna.crosscore.3.5.0\lib\wpa81\cirrious.crosscore.dll" HashGuid="db02cb3b-2fbd-1071-04b9-b7ad2d0dea05" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\mvvmcross.hottuna.crosscore.3.5.0\lib\wpa81\cirrious.crosscore.windowscommon.dll" HashGuid="33137c4e-381b-0828-9fcf-2ac3014e11f4" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\mvvmcross.hottuna.crosscore.3.5.0\lib\wpa81\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\jisoft.rating.1.0.3\lib\portable-wpa81+win81\jratingcontrol.dll" HashGuid="404d1537-603d-fde1-aa59-115669ee8e27" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\neodynamic.sdk.barcodereader.1.0.2000.0\lib\neodynamic.sdk.barcodereader.dll" HashGuid="620334bb-371f-ab81-d707-61f74afb35c3" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\microsoft.windows.ocr.1.0.0\lib\wpa81\arm\windowspreview.media.ocr.winmd" HashGuid="a5310a53-1cc2-dceb-da35-610421ecb7df" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\writeablebitmapex.1.5.0.0\lib\wpa81\writeablebitmapex.winrt.dll" HashGuid="6dd9ab30-a8ea-e714-1c9c-a07c544a2da6" />
+    <ReferenceAssembly PathName="c:\users\lekve\desktop\android development\hacktbilisiwp\packages\zxing.net.0.14.0.1\lib\wpa81\zxing.winmd" HashGuid="a78fc7f8-dd46-b4f1-5011-27b2896bf3e2" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

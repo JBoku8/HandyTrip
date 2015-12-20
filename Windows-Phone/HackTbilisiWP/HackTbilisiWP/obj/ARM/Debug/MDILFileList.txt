@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\HackTbilisiWP.exe</file>
+  <file>\JRatingControl.dll</file>
+  <file>\Neodynamic.SDK.BarcodeReader.dll</file>
+  <file>\WindowsPreview.Media.Ocr.winmd</file>
+  <file>\Acr.BarCodes.dll</file>
+  <file>\Acr.BarCodes.Interface.dll</file>
+  <file>\Acr.MvvmCross.Plugins.BarCodeScanner.dll</file>
+  <file>\Cirrious.CrossCore.dll</file>
+  <file>\Cirrious.CrossCore.WindowsCommon.dll</file>
+  <file>\Cirrious.MvvmCross.Localization.dll</file>
+  <file>\WriteableBitmapEx.WinRT.dll</file>
+  <file>\ZXing.winmd</file>
+</Files>
