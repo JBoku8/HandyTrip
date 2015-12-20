@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="obj/iPhone/Debug/build-iphone6.1-9.2/actool/bundle/AppIcons57x57.png">
+      <LogicalName xmlns="">AppIcons57x57.png</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/build-iphone6.1-9.2/actool/bundle/AppIcons57x57@2x.png">
+      <LogicalName xmlns="">AppIcons57x57@2x.png</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/build-iphone6.1-9.2/actool/bundle/AppIcons60x60@2x.png">
+      <LogicalName xmlns="">AppIcons60x60@2x.png</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/build-iphone6.1-9.2/actool/bundle/AppIcons60x60@3x.png">
+      <LogicalName xmlns="">AppIcons60x60@3x.png</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+  </ItemGroup>
+</Project>

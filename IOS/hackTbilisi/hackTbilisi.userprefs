@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="hackTbilisi/hackTbilisi.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Lekve" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hackTbilisi/ViewSources/SightSource.cs">
+    <Files>
+      <File FileName="hackTbilisi/Pocos/Souvenir.cs" Line="110" Column="4" />
+      <File FileName="hackTbilisi/Other/Globals.cs" Line="27" Column="6" />
+      <File FileName="hackTbilisi/ViewSources/SightSource.cs" Line="25" Column="7" />
+      <File FileName="hackTbilisi/ViewControllers/SightsViewController.cs" Line="19" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

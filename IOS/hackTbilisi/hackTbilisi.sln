@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackTbilisi", "hackTbilisi\hackTbilisi.csproj", "{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Release|iPhone.Build.0 = Release|iPhone
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BDC0627F-CA1A-4EED-958A-A0F043D25CB9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

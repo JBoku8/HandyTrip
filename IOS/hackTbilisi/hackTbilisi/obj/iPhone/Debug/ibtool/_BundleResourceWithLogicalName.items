@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="obj/iPhone/Debug/ibtool/LaunchScreen.nib">
+      <LogicalName xmlns="">LaunchScreen.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/1092-view-1093.nib">
+      <LogicalName xmlns="">Main.storyboardc/1092-view-1093.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/156-view-157.nib">
+      <LogicalName xmlns="">Main.storyboardc/156-view-157.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/540-view-541.nib">
+      <LogicalName xmlns="">Main.storyboardc/540-view-541.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/637-view-638.nib">
+      <LogicalName xmlns="">Main.storyboardc/637-view-638.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/699-view-700.nib">
+      <LogicalName xmlns="">Main.storyboardc/699-view-700.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/905-view-906.nib">
+      <LogicalName xmlns="">Main.storyboardc/905-view-906.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/986-view-987.nib">
+      <LogicalName xmlns="">Main.storyboardc/986-view-987.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist">
+      <LogicalName xmlns="">Main.storyboardc/Info.plist</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/UINavigationController-6.nib">
+      <LogicalName xmlns="">Main.storyboardc/UINavigationController-6.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-1092.nib">
+      <LogicalName xmlns="">Main.storyboardc/UIViewController-1092.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-699.nib">
+      <LogicalName xmlns="">Main.storyboardc/UIViewController-699.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+    <None Include="obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-905.nib">
+      <LogicalName xmlns="">Main.storyboardc/UIViewController-905.nib</LogicalName>
+      <Optimize xmlns="">false</Optimize>
+    </None>
+  </ItemGroup>
+</Project>

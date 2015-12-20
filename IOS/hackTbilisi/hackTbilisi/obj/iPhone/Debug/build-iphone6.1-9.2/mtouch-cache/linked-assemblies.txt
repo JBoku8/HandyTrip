@@ -1,0 +1,6 @@
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/System.Core.dll
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/System.dll
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/mscorlib.dll
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/hackTbilisi.exe
+/Users/macbook/IOS Development/hackTbilisi/hackTbilisi/obj/iPhone/Debug/build-iphone6.1-9.2/mtouch-cache/Link/ScanditSDK.dll
